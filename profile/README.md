@@ -8,7 +8,7 @@ Hew is a high-performance, network-native, machine-code compiled language for bu
 
 - [hew.sh](https://hew.sh) — Language website and documentation
 - [hew.run](https://hew.run) — Online playground
-- [HEW-SPEC.md](https://github.com/hew-lang/hew/blob/main/docs/specs/HEW-SPEC.md) — Language specification (v0.9.0)
+- [HEW-SPEC.md](https://github.com/hew-lang/hew/blob/main/docs/specs/HEW-SPEC.md) — Language specification (v0.3.0)
 
 ### Install
 
@@ -33,7 +33,7 @@ brew install hew-lang/hew/hew
 | [hew.sh](https://github.com/hew-lang/hew.sh) | Language website and documentation |
 | [hew.run](https://github.com/hew-lang/hew.run) | Online playground |
 | [homebrew-hew](https://github.com/hew-lang/homebrew-hew) | Homebrew tap for macOS/Linux installation |
-| [examples](https://github.com/hew-lang/examples) | Example programs and patterns |
+| [Examples](https://github.com/hew-lang/hew/tree/main/examples) | Example programs and patterns |
 
 ## Design
 
