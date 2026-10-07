@@ -6,7 +6,7 @@ Hew is a statically typed, actor-oriented programming language for concurrent an
 
 - [Getting started](https://hew.sh/docs/getting-started/) — Install Hew, set up an editor, and run your first program
 - [Learn Hew](https://hew.sh/learn/) — Interactive lessons
-- [hew.run](https://hew.run) — Online playground
+- [Playground](https://hew.sh/playground/) — Run Hew in your browser
 - [Language specification](https://github.com/hew-lang/hew/blob/main/docs/specs/HEW-SPEC-2026.md) — Edition 2026; the language edition is separate from the compiler version
 
 ### Install
