@@ -21,15 +21,15 @@ brew install hew-lang/hew/hew
 - **Vim / Neovim** — [vim-hew](https://github.com/hew-lang/vim-hew) syntax plugin
 - **Tree-sitter** — [tree-sitter-hew](https://github.com/hew-lang/tree-sitter-hew) grammar for Neovim, Helix, Zed, and other tree-sitter editors
 
-## Repositories
+## Hew projects
 
-| Repository | Description |
+| Project | Description |
 |---|---|
 | [hew](https://github.com/hew-lang/hew) | Compiler, LSP server, and language toolchain |
 | [tree-sitter-hew](https://github.com/hew-lang/tree-sitter-hew) | Editor grammar mirroring the compiler's lexer and parser |
 | [vscode-hew](https://github.com/hew-lang/vscode-hew) | VS Code extension with syntax highlighting and LSP |
 | [vim-hew](https://github.com/hew-lang/vim-hew) | Vim/Neovim syntax highlighting |
-| [hew.sh](https://github.com/hew-lang/hew.sh) | Language website and documentation |
+| [hew.sh](https://hew.sh/) | Language website and documentation |
 | [homebrew-hew](https://github.com/hew-lang/homebrew-hew) | Homebrew tap for macOS/Linux installation |
 | [Examples](https://github.com/hew-lang/hew/tree/main/examples) | Example programs and patterns |
 
